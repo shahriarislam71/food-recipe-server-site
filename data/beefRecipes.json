@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Beef Bhuna",
+      "description": "A traditional Bangladeshi dish made with beef cubes cooked in a spicy mixture of onions, garlic, ginger, tomatoes, and yogurt, seasoned with various aromatic spices.",
+      "photo": "https://cookbook.pfeiffer.net.au/files/beefBhuna.jpg"
+    },
+    {
+      "name": "Beef Tehari",
+      "description": "A flavorful rice dish made with beef cubes, basmati rice, and a blend of spices, cooked together to create a rich and aromatic meal, perfect for special occasions.",
+      "photo": "https://cookingcanary.com/wp-content/uploads/2022/04/Bangladeshi-beef-tehari.jpg"
+    },
+    {
+      "name": "Beef Curry",
+      "description": "A hearty curry made with tender beef cubes simmered in a spiced tomato and onion gravy, often with potatoes, served hot with rice or roti.",
+      "photo": "https://www.tamingtwins.com/wp-content/uploads/2023/01/slow-cooker-beef-curry-6-e1674829015556.jpg"
+    },
+    {
+      "name": "Kala Bhuna",
+      "description": "A dark, rich beef dish where the meat is slow-cooked with caramelized onions and a blend of spices, resulting in a deeply flavored and aromatic curry.",
+      "photo": "https://i.ytimg.com/vi/7bQxh-ewDjk/maxresdefault.jpg"
+    }
+  ]

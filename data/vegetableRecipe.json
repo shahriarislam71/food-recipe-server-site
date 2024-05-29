@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Shobji Bhorta",
+      "description": "A traditional Bangladeshi dish made with mashed vegetables including potatoes, eggplant, pumpkin, and carrots, mixed with spices and mustard oil for a flavorful, spicy side dish.",
+      "photo": "https://images.squarespace-cdn.com/content/v1/5ea5f3913b0ccf06d0ec2563/1591993049399-9IQ2F720HLHJ7KKPAR5J/2.jpg"
+    },
+    {
+      "name": "Chorchori",
+      "description": "A mixed vegetable stir-fry made with pumpkin, eggplant, potatoes, carrots, green beans, and ridge gourd, seasoned with panch phoron and mustard oil.",
+      "photo": "https://i.ytimg.com/vi/m-yeYd-DgDY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBzdbt4fwbC933CTztHDf94ohvVjwg"
+    },
+    {
+      "name": "Daal with Vegetables",
+      "description": "A nutritious lentil soup cooked with spinach, eggplant, potatoes, tomatoes, and spices, served hot with rice.",
+      "photo": "https://www.cookwithkushi.com/wp-content/uploads/2016/02/IMG_7741_-1.jpg"
+    },
+    {
+      "name": "Aloo Phulkopi",
+      "description": "A flavorful curry made with potatoes and cauliflower, cooked with tomatoes, green chilies, onions, and a blend of spices, perfect with rice or roti.",
+      "photo": "https://i0.wp.com/thewannabecook.com/wp-content/uploads/2022/07/Cauliflower_Potato_Curry_Recipe-e1662689533748.jpg?fit=900%2C900&ssl=1"
+    }
+  ]
