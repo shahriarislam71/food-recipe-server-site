@@ -1,21 +1,25 @@
 [
     {
       "name": "Chicken Korma",
+      "id" : "0",
       "description": "A rich and creamy chicken curry made with yogurt, almonds, and a blend of aromatic spices, creating a mildly spiced and flavorful dish.",
       "photo": "https://food-images.files.bbci.co.uk/food/recipes/chicken_korma_09900_16x9.jpg"
     },
     {
       "name": "Chicken Bhuna",
+      "id" : "1",
       "description": "A traditional Bangladeshi dish where chicken pieces are cooked in a thick, spicy sauce made with onions, tomatoes, garlic, and a variety of spices, until the oil separates.",
       "photo": "https://www.sprinklesandsprouts.com/wp-content/uploads/2023/04/Chicken-Bhuna-SQ.jpg"
     },
     {
       "name": "Chicken Rezala",
+      "id" : "2",
       "description": "A mildly spiced chicken curry cooked in a white gravy made with yogurt, poppy seeds, cashew nuts, and a blend of subtle spices, resulting in a rich and creamy dish.",
       "photo": "https://assets-global.website-files.com/60d34b8627f6e735cf28df18/6503a20f5bc314de44886164_rezala_1-1.jpeg"
     },
     {
       "name": "Chicken Jalfrezi",
+      "id" : "3",
       "description": "A vibrant and spicy stir-fry dish made with chicken pieces, bell peppers, onions, and tomatoes, cooked with a blend of spices for a flavorful and colorful meal.",
       "photo": "https://spoonsofflavor.com/wp-content/uploads/2022/10/Chicken-Jalfrezi-Recipe.jpg"
     }

@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Chingri Malai Curry",
+        "id" : "0",
+        "photo": "https://images.squarespace-cdn.com/content/v1/5ea5f3913b0ccf06d0ec2563/1618046090475-PB3D5ZRMC9TVUUMJIG9L/Chingri+Malai+Curry+%2834%29_Original.jpeg?format=2500w",
+        "description": "A rich and creamy prawn curry cooked with coconut milk, spices, and herbs.",
+        "rating": 4.8
+    },
+    {
+        "name": "Bhuna Khichuri",
+        "id" : "1",
+        "photo": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/05/Bhuna-khichuri-recipe-585x585.jpg",
+        "description": "A comforting and flavorful dish made with rice, lentils, and spices.",
+        "rating": 4.7
+    },
+    {
+        "name": "Beef Tehari",
+        "id" : "2",
+        "photo": "https://media-cdn.tripadvisor.com/media/photo-s/12/02/e9/a8/beef-tehari.jpg",
+        "description": "A delicious and aromatic rice dish made with beef and a blend of spices.",
+        "rating": 4.9
+    },
+    {
+        "name": "Doi Begun",
+        "id" : "3",
+        "photo": "https://i.ytimg.com/vi/Akqf_8-0jFQ/sddefault.jpg",
+        "description": "A yogurt-based eggplant curry that's tangy, spicy, and rich in flavor.",
+        "rating": 4.6
+    },
+    {
+        "name": "Ilish Bhapa",
+        "id" : "4",
+        "photo": "https://www.doctorschoiceoil.com/wp-content/uploads/2022/02/dc-banner-fish.jpg",
+        "description": "Steamed Hilsa fish cooked in a mustard and coconut gravy.",
+        "rating": 4.9
+    },
+    {
+        "name": "Mutton Rezala",
+        "id" : "5",
+        "photo": "https://i.ytimg.com/vi/8quSVi9iMl0/maxresdefault.jpg",
+        "description": "A rich and creamy mutton curry with a blend of aromatic spices.",
+        "rating": 4.8
+    },
+    {
+        "name": "Shorshe Bata Ilish",
+        "id" : "6",
+        "photo": "https://i0.wp.com/pikturenama.com/wp-content/uploads/2020/10/Low-res-Sosrshe-Ilish-8.jpg?fit=1200%2C800&ssl=1",
+        "description": "Hilsa fish cooked in a mustard paste and spices.",
+        "rating": 4.7
+    },
+    {
+        "name": "Morog Polao",
+        "id" : "7",
+        "photo": "https://sagarfood-com.myshopify.com/cdn/shop/products/Morog-Pulao-Combo_2000x.jpg?v=1587895111",
+        "description": "A flavorful chicken and rice dish cooked with aromatic spices and herbs.",
+        "rating": 4.9
+    },
+    {
+        "name": "Patla Khichuri",
+        "id" : "8",
+        "photo": "https://i.ytimg.com/vi/s0Pew7fiYU0/maxresdefault.jpg",
+        "description": "A soupy rice and lentil dish that's light and comforting.",
+        "rating": 4.5
+    },
+    {
+        "name": "Lau Chingri",
+        "id" : "9",
+        "photo": "https://www.shutterstock.com/shutterstock/photos/1841806849/display_1500/stock-photo-lau-chingri-a-famous-bengali-cuisine-1841806849.jpg",
+        "description": "Bottle gourd cooked with prawns in a light and flavorful curry.",
+        "rating": 4.6
+    },
+    {
+        "name": "Kachchi Biryani",
+        "id" : "10",
+        "photo": "https://media.istockphoto.com/id/1716976168/photo/pilaf-kachchi-biryani-is-a-popular-meal-served-at-parties-celebrations-and-weddings-closeup.jpg?s=612x612&w=0&k=20&c=614Kw94X7qtt6nRTZ9lD6SscpmAK7cZeSVYD8kdbEiA=",
+        "description": "A traditional Bangladeshi biryani made with marinated mutton and fragrant rice.",
+        "rating": 4.9
+    },
+    {
+        "name": "Panta Ilish",
+        "id" : "11",
+        "photo": "https://www.shutterstock.com/shutterstock/photos/2144788757/display_1500/stock-photo-panta-ilish-bengali-new-year-festive-dish-boishakh-panta-ilish-with-chilli-and-onion-panta-bhat-2144788757.jpg",
+        "description": "A traditional dish of fermented rice served with fried Hilsa fish.",
+        "rating": 4.7
+    }
+]

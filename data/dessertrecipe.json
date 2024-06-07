@@ -1,22 +1,26 @@
 [
     {
       "name": "Rasgulla",
+      "id" : "0",
       "description": "A popular Bengali dessert made from chhena (Indian cottage cheese) and semolina dough, cooked in a light syrup made of sugar. These soft and spongy balls are a delightful treat.",
-      "photo": "https://example.com/photos/rasgulla.jpg"
+      "photo": "https://www.shutterstock.com/image-photo/indian-sweet-rasgulla-know-rosogolla-260nw-1252925164.jpg"
     },
     {
       "name": "Mishti Doi",
+      "id" : "1",
       "description": "A traditional Bengali sweet yogurt made by fermenting thickened milk and sugar, often flavored with cardamom. It's creamy, smooth, and has a unique caramelized taste.",
-      "photo": "https://example.com/photos/mishti_doi.jpg"
+      "photo": "https://aartimadan.com/wp-content/uploads/2019/09/Mishti-doi-4.jpg"
     },
     {
       "name": "Cham Cham",
+      "id" : "2",
       "description": "A delectable Bengali sweet made from chhena (Indian cottage cheese) and cooked in sugar syrup, often garnished with coconut flakes or mawa (dried milk). It's moist and flavorful.",
-      "photo": "https://example.com/photos/cham_cham.jpg"
+      "photo": "https://www.shutterstock.com/image-photo/indian-traditional-sweet-food-long-260nw-1299068647.jpg"
     },
     {
       "name": "Pati Shapta",
+      "id" : "3",
       "description": "A traditional Bengali crepe filled with a mixture of coconut, jaggery, and khoya (dried milk). These sweet, soft, and delicious crepes are often enjoyed during festivals.",
-      "photo": "https://example.com/photos/pati_shapta.jpg"
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK5Uk5BgRJIDy7lEoz5qoaTqE7AnH_pJHqLg&s"
     }
   ]

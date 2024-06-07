@@ -1,7 +1,7 @@
 [
     {
         "name": "Chef Rahima Begum",
-        "id":"0",
+        "id" : "rahima",
         "photo": "https://ecdn.dhakatribune.net/contents/cache/images/640x359x1/uploads/media/2024/01/25/Nur-E-Gulshan-a57c73042ee4977f531b0b4c6fcfff07.jpg?jadewits_media_id=13786",
         "chef_info": "Rahima Begum is renowned for her traditional Bangladeshi cuisine, bringing authentic flavors to the table.",
         "years_of_experience": 20,
@@ -10,29 +10,33 @@
         "recipes": [
             {
                 "recipe_name": "Panta Ilish",
-                "recipe-photo": "https://www.observerbd.com/2019/04/11/observerbd.com_1555003026.jpg",
+                "idd": "0",
+                "recipe_photo": "https://www.observerbd.com/2019/04/11/observerbd.com_1555003026.jpg",
                 "description": "A traditional Bengali dish of fermented rice served with fried hilsa fish."
             },
             {
                 "recipe_name": "Bhuna Khichuri",
-                "recipe-photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoYUiK6qRPbvcGguYSl2eZmE3lrRgITfQKWXT6hy1NDA&s",
+                "idd": "1",
+                "recipe_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoYUiK6qRPbvcGguYSl2eZmE3lrRgITfQKWXT6hy1NDA&s",
                 "description": "A savory dish made with rice, lentils, and a mix of spices."
             },
             {
                 "recipe_name": "Shorshe Ilish",
-                "recipe-photo": "https://static1.squarespace.com/static/5ea5f3913b0ccf06d0ec2563/5ed1e9df25a6bf670bb71999/61e62ffe15030f1b546d4521/1647632845423/Pohela+Boishakh+2021+-+The+Spice+Odyssey+%2850%29.jpg?format=1500w",
+                "idd": "2",
+                "recipe_photo": "https://static1.squarespace.com/static/5ea5f3913b0ccf06d0ec2563/5ed1e9df25a6bf670bb71999/61e62ffe15030f1b546d4521/1647632845423/Pohela+Boishakh+2021+-+The+Spice+Odyssey+%2850%29.jpg?format=1500w",
                 "description": "Hilsa fish cooked in mustard sauce, a favorite in Bangladeshi cuisine."
             },
             {
                 "recipe_name": "Kacchi Biryani",
-                "recipe-photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYxSo8z8xhuku4hB8RzyniKxe2nNpqzopI4kQWl8Pp8Q&s",
+                "idd": "3",
+                "recipe_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYxSo8z8xhuku4hB8RzyniKxe2nNpqzopI4kQWl8Pp8Q&s",
                 "description": "A popular Bangladeshi biryani made with marinated meat and rice, slow-cooked to perfection."
             }
         ]
     },
     {
         "name": "Chef Farzana Ahmed",
-        "id":"1",
+        "id" : "Farzana",
         "photo": "https://assets.telegraphindia.com/telegraph/2022/May/1652363208__dscf0138.jpg",
         "chef_info": "Farzana Ahmed is celebrated for her innovative approach to traditional Bangladeshi recipes.",
         "years_of_experience": 15,
@@ -41,29 +45,33 @@
         "recipes": [
             {
                 "recipe_name": "Chingri Malai Curry",
-                "recipe-photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE8X-dsgf6a2Y4iGVUIN0wFCIydGwKIrrnjzRyWPVuKw&s",
+                "idd": "4",
+                "recipe_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE8X-dsgf6a2Y4iGVUIN0wFCIydGwKIrrnjzRyWPVuKw&s",
                 "description": "A creamy curry made with prawns and coconut milk."
             },
             {
                 "recipe_name": "Dhokar Dalna",
-                "recipe-photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP1Ap8hw8j1fN3_urRGaoPbKHZ-ssVqRS_7AML18gv8w&s",
+                "idd": "5",
+                "recipe_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP1Ap8hw8j1fN3_urRGaoPbKHZ-ssVqRS_7AML18gv8w&s",
                 "description": "A vegetarian dish made with lentil cakes cooked in a spicy gravy."
             },
             {
                 "recipe_name": "Morog Polao",
-                "recipe-photo": "https://sagarfood-com.myshopify.com/cdn/shop/products/Morog-Pulao-Combo_2000x.jpg?v=1587895111",
+                "idd": "6",
+                "recipe_photo": "https://sagarfood-com.myshopify.com/cdn/shop/products/Morog-Pulao-Combo_2000x.jpg?v=1587895111",
                 "description": "A fragrant rice dish with chicken, flavored with aromatic spices."
             },
             {
                 "recipe_name": "Mishti Doi",
-                "recipe-photo": "https://upload.wikimedia.org/wikipedia/commons/3/34/Mishti_Doi.jpg",
+                "idd": "7",
+                "recipe_photo": "https://upload.wikimedia.org/wikipedia/commons/3/34/Mishti_Doi.jpg",
                 "description": "A traditional Bengali sweet yogurt, perfect for dessert."
             }
         ]
     },
     {
         "name": "Chef Nayeem Ashraf",
-        "id":"2",
+        "id" : "Nayeem",
         "photo": "https://miro.medium.com/v2/resize:fit:1358/0*8d0vB1EsR6RUtRny",
         "chef_info": "Nayeem Ashraf brings a modern twist to Bangladeshi cuisine, making it more accessible to the younger generation.",
         "years_of_experience": 10,
@@ -72,29 +80,33 @@
         "recipes": [
             {
                 "recipe_name": "Aloo Bhorta",
-                "recipe-photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3jhX7lBcM5pMiytn7-KMbWJYEQo3WHAlHmzZBulvdA&s",
+                "idd": "8",
+                "recipe_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3jhX7lBcM5pMiytn7-KMbWJYEQo3WHAlHmzZBulvdA&s",
                 "description": "A mashed potato dish with mustard oil, green chilies, and onions."
             },
             {
                 "recipe_name": "Rui Maacher Kalia",
-                "recipe-photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbgJXPbtXIOBwt8yJOcKMBCfGg_qDkdZhyPUW8LDIGxA&s",
+                "idd": "9",
+                "recipe_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbgJXPbtXIOBwt8yJOcKMBCfGg_qDkdZhyPUW8LDIGxA&s",
                 "description": "Rohu fish cooked in a rich and spicy gravy."
             },
             {
                 "recipe_name": "Patishapta",
-                "recipe-photo": "https://www.shutterstock.com/image-photo/patishapta-pitha-one-hot-favorite-260nw-1624753726.jpg",
+                "idd": "10",
+                "recipe_photo": "https://www.shutterstock.com/image-photo/patishapta-pitha-one-hot-favorite-260nw-1624753726.jpg",
                 "description": "A sweet crepe filled with a mixture of coconut and jaggery."
             },
             {
                 "recipe_name": "Luchi with Cholar Dal",
-                "recipe-photo": "https://img-global.cpcdn.com/recipes/4a5578ef553d74f7/680x482cq70/luchi-ar-cholar-dal-recipe-main-photo.jpg",
+                "idd": "11",
+                "recipe_photo": "https://img-global.cpcdn.com/recipes/4a5578ef553d74f7/680x482cq70/luchi-ar-cholar-dal-recipe-main-photo.jpg",
                 "description": "A classic breakfast combo of deep-fried bread and split chickpea curry."
             }
         ]
     },
     {
         "name": "Chef Mahfuzur Rahman",
-        "id":"3",
+        "id" : "Mahfuzur",
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoArzSagKncKgdeo0desJEHLX8AEzv9B0R3HulDUw0pw&s",
         "chef_info": "Mahfuzur Rahman specializes in seafood dishes, bringing the best of Bangladeshi coastal cuisine to the forefront.",
         "years_of_experience": 18,
@@ -103,29 +115,33 @@
         "recipes": [
             {
                 "recipe_name": "Chingri Bhorta",
-                "recipe-photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV0uR6Gs3SEalr7TI4E4NI8OGJjNJNMy5T2-B69CUSCA&s",
+                "idd": "12",
+                "recipe_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV0uR6Gs3SEalr7TI4E4NI8OGJjNJNMy5T2-B69CUSCA&s",
                 "description": "A spicy mashed prawn dish, perfect with steamed rice."
             },
             {
                 "recipe_name": "Macher Jhol",
-                "recipe-photo": "https://www.archanaskitchen.com//images/archanaskitchen/1-Author/Karthika_Gopalakrishnan/Aar_macher_Jhol.jpg",
+                "idd": "13",
+                "recipe_photo": "https://www.archanaskitchen.com//images/archanaskitchen/1-Author/Karthika_Gopalakrishnan/Aar_macher_Jhol.jpg",
                 "description": "A light fish curry with a broth-like consistency, ideal for everyday meals."
             },
             {
                 "recipe_name": "Panta Bhat",
-                "recipe-photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp7JffmHecRgm4SrsVZE3E2s6j6rtEjAQukQw8NHQErQ&s",
+                "idd": "14",
+                "recipe_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp7JffmHecRgm4SrsVZE3E2s6j6rtEjAQukQw8NHQErQ&s",
                 "description": "Fermented rice served with an array of accompaniments, a traditional Bangladeshi staple."
             },
             {
                 "recipe_name": "Narkel Naru",
-                "recipe-photo": "https://img-global.cpcdn.com/recipes/cc13d7007c13d6d5/1200x630cq70/photo.jpg",
+                "idd": "15",
+                "recipe_photo": "https://img-global.cpcdn.com/recipes/cc13d7007c13d6d5/1200x630cq70/photo.jpg",
                 "description": "Sweet coconut balls made with jaggery, a popular festive treat."
             }
         ]
     },
     {
         "name": "Chef Sohidul Islam",
-        "id":"4",
+        "id" : "Sohidul",
         "photo": "https://media.licdn.com/dms/image/D5603AQGMTyqNlWbaag/profile-displayphoto-shrink_800_800/0/1704083094691?e=2147483647&v=beta&t=1KdRkx1M3ViSWFxdm70E0VTKly_G9WKG42_eFottpIA",
         "chef_info": "Sohidul Islam is known for her expertise in Bangladeshi desserts, creating delightful sweets for all occasions.",
         "years_of_experience": 22,
@@ -134,29 +150,33 @@
         "recipes": [
             {
                 "recipe_name": "Roshogolla",
-                "recipe-photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSieRFOWy3fHUNUmDnVoaHFh_Z5Ftu_vuh6pO71F1df_g&s",
+                "idd": "16",
+                "recipe_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSieRFOWy3fHUNUmDnVoaHFh_Z5Ftu_vuh6pO71F1df_g&s",
                 "description": "Soft and spongy cheese balls soaked in sugar syrup."
             },
             {
                 "recipe_name": "Sandesh",
-                "recipe-photo": "https://www.chefkunalkapur.com/wp-content/uploads/2021/03/Sandesh-1300x867.jpg?v=1619103410",
+                "idd": "17",
+                "recipe_photo": "https://www.chefkunalkapur.com/wp-content/uploads/2021/03/Sandesh-1300x867.jpg?v=1619103410",
                 "description": "A simple yet delicious Bengali sweet made from fresh paneer."
             },
             {
                 "recipe_name": "Pithe",
-                "recipe-photo": "https://www.thestatesman.com/wp-content/uploads/2022/01/Sweet_Rice_Dumplings_Recipe_Mohu.jpg",
+                "idd": "18",
+                "recipe_photo": "https://www.thestatesman.com/wp-content/uploads/2022/01/Sweet_Rice_Dumplings_Recipe_Mohu.jpg",
                 "description": "Traditional rice cakes often filled with sweet or savory ingredients."
             },
             {
                 "recipe_name": "Payesh",
-                "recipe-photo": "https://www.shutterstock.com/image-photo/nolen-gurer-chanar-payesh-milk-260nw-2215422339.jpg",
+                "idd": "19",
+                "recipe_photo": "https://www.shutterstock.com/image-photo/nolen-gurer-chanar-payesh-milk-260nw-2215422339.jpg",
                 "description": "A creamy rice pudding flavored with cardamom and topped with nuts."
             }
         ]
     },
     {
         "name": "Chef Alamgir Hossain",
-        "id":"5",
+        "id" : "Alamgir",
         "photo": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg",
         "chef_info": "Alamgir Hossain combines traditional Bangladeshi techniques with contemporary culinary trends.",
         "years_of_experience": 25,
@@ -165,22 +185,26 @@
         "recipes": [
             {
                 "recipe_name": "Beef Bhuna",
-                "recipe-photo": "https://i.ytimg.com/vi/EaPvZV89zAI/sddefault.jpg",
+                "idd": "20",
+                "recipe_photo": "https://i.ytimg.com/vi/EaPvZV89zAI/sddefault.jpg",
                 "description": "Slow-cooked beef in a rich and spicy gravy."
             },
             {
                 "recipe_name": "Beguni",
-                "recipe-photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKuaO1muZaUMkkTsBZT88hcuOULPLx2QItk28tdllDIw&s",
+                "idd": "21",
+                "recipe_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKuaO1muZaUMkkTsBZT88hcuOULPLx2QItk28tdllDIw&s",
                 "description": "Battered and fried eggplant slices, a popular snack."
             },
             {
                 "recipe_name": "Fuska",
-                "recipe-photo": "https://www.shutterstock.com/image-photo/fuska-delicious-bengali-snack-260nw-152912306.jpg",
+                "idd": "22",
+                "recipe_photo": "https://www.shutterstock.com/image-photo/fuska-delicious-bengali-snack-260nw-152912306.jpg",
                 "description": "Crispy hollow puris filled with a tangy tamarind water and chickpea filling."
             },
             {
                 "recipe_name": "Shemai",
-                "recipe-photo": "https://www.shutterstock.com/image-photo/khir-kheer-payasam-known-sheer-260nw-1738922834.jpg",
+                "idd": "23",
+                "recipe_photo": "https://www.shutterstock.com/image-photo/khir-kheer-payasam-known-sheer-260nw-1738922834.jpg",
                 "description": "Sweet vermicelli pudding, a common dessert in Bangladeshi households."
             }
         ]
